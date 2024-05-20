@@ -1,27 +1,6 @@
 <h2> Hi, I'm <a href="https://rubiin.now.sh">Rubin</a><img src="https://raw.githubusercontent.com/rubiin/rubiin/master/pikahello.gif" width="40px" height="40px"></h2>
 
-<a href="https://twitter.com/rubiin">
-  <img align="left" alt="Rubin Bhandari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/xidharth/">
-  <img align="left" alt="Rubin's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/rubinbhandari">
-  <img align="left" alt="Rubin's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/rubiin.__/">
-  <img align="left" alt="Rubin's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.reddit.com/user/rubinbhandari/">
-  <img align="left" alt="Rubin's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
-<a href="https://dev.to/rubiin/">
-  <img align="left" alt="Rubin's Dev.to" wialt="Rubin's Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
-</a>
-<br />
-<br/>
 
-Hi, I'm Rubin Bhandari, a Full Stack Developer 🚀 from Nepal, currently, I'm working with <a href="https://takeo.ai/">Takeo.ai</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.I am a self taught developer, FOSS lover, linux enthusiast. I create blog posts and open source packages mainly on JS and Go that I find will help me and others with similar problems. I have a passion for learning and sharing my knowledge with others in a way that's as public as possible. You can see a full list of what I am up to on rubiin.ml. If you found value in something I have created or contributed to, please feel free to send a tip, give me a shout out @RubinCodes, give some hearts on DEV.to/rubiin
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
  
